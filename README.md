@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-Lubie czekoladę
+czekolada
 Zimno dzisiaj.
 >>>>>>>>>>>>>>>>>>>>>>>>>
 <<<<<<<<<<<<<<<<<<<<<<<<<
